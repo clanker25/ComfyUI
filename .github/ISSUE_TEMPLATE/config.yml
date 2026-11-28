@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ComfyUI Frontend Issues
+    url: https://github.com/Comfy-Org/ComfyUI_frontend/issues
+    about: Issues related to the ComfyUI frontend (display issues, user interaction bugs), please go to the frontend repo to file the issue
+  - name: Comfy Org Discord
+    url: https://discord.gg/comfyorg
+    about: The Comfy Org Discord is available for support and general discussion related to ComfyUI.
